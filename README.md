@@ -17,7 +17,7 @@ Oyuncu Dostu: /stoast kapat komutu ile isteyen oyuncular bildirimleri kendileri 
 
 1.20.6 Tam Uyum: En güncel Minecraft sürümü ve yeni JSON bileşen sistemiyle %100 uyumlu.
 
-📜 Komutlar ve Yetkiler
+# 📜 Komutlar ve Yetkiler
 
 /stoast reload - Konfigürasyonu yeniler. (screttoast.admin)
 
