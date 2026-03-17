@@ -1,0 +1,2 @@
+# ScretCustomToast
+Özelleştirilmiş ölüm mesajı.
